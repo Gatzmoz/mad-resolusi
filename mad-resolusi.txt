@@ -3,3 +3,5 @@ MAD RESOLUSI
 - Belajar bahasa pemrograman baru
 - Mencoba ngoding tanpa copy paste
 - Membuat website portofolio
+  + Tampilan dengan tema dark
+  + Serta menampilkan beberapa contoh projek-projek yang pernah dibuat
