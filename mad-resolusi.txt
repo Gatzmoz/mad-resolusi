@@ -5,3 +5,5 @@ MAD RESOLUSI
 - Membuat website portofolio
   + Menambahakan sertifikat/pencapaian yang telah diperoleh
   + Menambahkan data diri
+  + Tampilan dengan tema dark
+  + Serta menampilkan beberapa contoh projek-projek yang pernah dibuat
