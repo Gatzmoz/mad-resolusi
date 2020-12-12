@@ -1,7 +1,9 @@
 MAD RESOLUSI
-- Belajar giat minimal ngoding 2 kali dalam seminggu
+- Belajar dengan giat minimal ngoding 3 kali dalam seminggu
 - Belajar bahasa pemrograman baru
 - Mencoba ngoding tanpa copy paste
 - Membuat website portofolio
+  + Menambahakan sertifikat/pencapaian yang telah diperoleh
+  + Menambahkan data diri
   + Tampilan dengan tema dark
   + Serta menampilkan beberapa contoh projek-projek yang pernah dibuat
